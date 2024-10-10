@@ -1,4 +1,4 @@
-**Important:** Due to TinyURL’s use of Cloudflare, the playlist short links have been updated from TinyURL to Bit.ly. The old TinyURL links will continue to work once the protective mode is lifted, but it's recommended to switch to the new Bit.ly links.
+**Note:** Due to recent changes on TheTVApp's website, events are currently not being added to the playlist. We are actively looking into the issue.
 
 ## What is TheTVApp?
 
