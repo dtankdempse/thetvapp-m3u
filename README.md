@@ -1,5 +1,3 @@
-**Note:** Due to recent changes on TheTVApp's website, events are currently not being added to the playlist. We are actively looking into the issue.
-
 ## What is TheTVApp?
 
 TheTVApp is a platform that offers free live TV and sports streaming across selected categories. Users can stream and watch live TV directly through their browser without the need for an account or subscription.
