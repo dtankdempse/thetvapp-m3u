@@ -1,3 +1,5 @@
+**Note:** Due to an excessive number of playlist requests from rogue media players, I've updated the rate limiting response. From now on, a dummy playlist will be returned to address these media players that continuously send requests without stopping. To avoid being affected by this rate limit, please ensure your application isn't configured to constantly re-import the playlist. Your application should not request a playlist until at least 2 to 3 hours have passed since the last request.
+
 ## What is TheTVApp?
 
 TheTVApp is a platform that offers free live TV and sports streaming across selected categories. Users can stream and watch live TV directly through their browser without the need for an account or subscription.
