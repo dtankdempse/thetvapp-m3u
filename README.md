@@ -1,4 +1,4 @@
-**Note:** Due to an excessive number of playlist requests from rogue media players, I've updated the rate limiting response. From now on, a dummy playlist will be returned to address these media players that continuously send requests without stopping. To avoid being affected by this rate limit, please ensure your application isn't configured to constantly re-import the playlist. Your application should not request a playlist until at least 2 to 3 hours have passed since the last request.
+**Note:** The EPG provider, m3u4u, has temporarily disabled the EPG while they work on an issue. Once they re-enable their service, the guide will start working again.
 
 ## What is TheTVApp?
 
