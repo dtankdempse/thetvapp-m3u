@@ -1,5 +1,7 @@
 **Note:** The EPG provider, m3u4u, has temporarily disabled the EPG while they work on an issue. Once they re-enable their service, the guide will start working again.
 
+**Update:** Due to m3u4u proving to be unreliable, I am currently in the process of remapping the channels using an alternative EPG service.
+
 ## What is TheTVApp?
 
 TheTVApp is a platform that offers free live TV and sports streaming across selected categories. Users can stream and watch live TV directly through their browser without the need for an account or subscription.
