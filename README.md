@@ -13,8 +13,9 @@ To use M3U playlist in your IPTV application, look for the option to import an M
 ### Playlist URL:
 ``https://bit.ly/tta-m3u``
 
-### EPG URL:
-``https://bit.ly/tta-epg``
+### EPG URLs:
+- **XML Format:** `https://bit.ly/tta-epg`
+- **Compressed:** `https://bit.ly/tta-epg-gz`
 
 ## Playlist & EPG Refresh
 
