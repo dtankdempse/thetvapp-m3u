@@ -1,5 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="87ce033845e938bf0eabb357607cbb5b">
+    <display-name>Chicago Bulls vs. Orlando Magic - 07:10 PM EST - (11/27/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" />
+  </channel>
+  <channel id="2172f16773dceacffc64bc5fcc349426">
+    <display-name>Los Angeles Clippers vs. Washington Wizards - 07:10 PM EST - (11/27/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" />
+  </channel>
+  <channel id="33ca3f8a2a1ba8fe31cc3e73371906cb">
+    <display-name>New York Knicks vs. Dallas Mavericks - 07:40 PM EST - (11/27/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" />
+  </channel>
+  <channel id="a3cdabb1040db997663ec68d982de3b2">
+    <display-name>Toronto Raptors vs. New Orleans Pelicans - 08:10 PM EST - (11/27/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" />
+  </channel>
+  <channel id="9fcfe92bc0f4ebfaaeb5ad4c3a6c01ab">
+    <display-name>Sacramento Kings vs. Minnesota Timberwolves - 08:10 PM EST - (11/27/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" />
+  </channel>
+  <channel id="6b4dfb8214fb969bbdb5c5f3e1d3acf6">
+    <display-name>Detroit Pistons vs. Memphis Grizzlies - 08:10 PM EST - (11/27/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" />
+  </channel>
+  <channel id="4ee458f876bedac446f4f33f216809e5">
+    <display-name>Brooklyn Nets vs. Phoenix Suns - 09:10 PM EST - (11/27/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" />
+  </channel>
+  <channel id="89ee405b555ae020af4be55e5b5ccc8d">
+    <display-name>Oklahoma City Thunder vs. Golden State Warriors - 10:10 PM EST - (11/27/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" />
+  </channel>
+  <programme start="20241127124248 +0000" stop="20241129124248 +0000" channel="87ce033845e938bf0eabb357607cbb5b">
+    <title>Chicago Bulls vs. Orlando Magic - 07:10 PM EST - (11/27/2024)</title>
+    <desc>04:10 PM PST / 05:10 PM MST / 07:10 PM EST - (11/27/2024)</desc>
+  </programme>
+  <programme start="20241127124248 +0000" stop="20241129124248 +0000" channel="2172f16773dceacffc64bc5fcc349426">
+    <title>Los Angeles Clippers vs. Washington Wizards - 07:10 PM EST - (11/27/2024)</title>
+    <desc>04:10 PM PST / 05:10 PM MST / 07:10 PM EST - (11/27/2024)</desc>
+  </programme>
+  <programme start="20241127124248 +0000" stop="20241129124248 +0000" channel="33ca3f8a2a1ba8fe31cc3e73371906cb">
+    <title>New York Knicks vs. Dallas Mavericks - 07:40 PM EST - (11/27/2024)</title>
+    <desc>04:40 PM PST / 05:40 PM MST / 07:40 PM EST - (11/27/2024)</desc>
+  </programme>
+  <programme start="20241127124248 +0000" stop="20241129124248 +0000" channel="a3cdabb1040db997663ec68d982de3b2">
+    <title>Toronto Raptors vs. New Orleans Pelicans - 08:10 PM EST - (11/27/2024)</title>
+    <desc>05:10 PM PST / 06:10 PM MST / 08:10 PM EST - (11/27/2024)</desc>
+  </programme>
+  <programme start="20241127124248 +0000" stop="20241129124248 +0000" channel="9fcfe92bc0f4ebfaaeb5ad4c3a6c01ab">
+    <title>Sacramento Kings vs. Minnesota Timberwolves - 08:10 PM EST - (11/27/2024)</title>
+    <desc>05:10 PM PST / 06:10 PM MST / 08:10 PM EST - (11/27/2024)</desc>
+  </programme>
+  <programme start="20241127124248 +0000" stop="20241129124248 +0000" channel="6b4dfb8214fb969bbdb5c5f3e1d3acf6">
+    <title>Detroit Pistons vs. Memphis Grizzlies - 08:10 PM EST - (11/27/2024)</title>
+    <desc>05:10 PM PST / 06:10 PM MST / 08:10 PM EST - (11/27/2024)</desc>
+  </programme>
+  <programme start="20241127124248 +0000" stop="20241129124248 +0000" channel="4ee458f876bedac446f4f33f216809e5">
+    <title>Brooklyn Nets vs. Phoenix Suns - 09:10 PM EST - (11/27/2024)</title>
+    <desc>06:10 PM PST / 07:10 PM MST / 09:10 PM EST - (11/27/2024)</desc>
+  </programme>
+  <programme start="20241127124248 +0000" stop="20241129124248 +0000" channel="89ee405b555ae020af4be55e5b5ccc8d">
+    <title>Oklahoma City Thunder vs. Golden State Warriors - 10:10 PM EST - (11/27/2024)</title>
+    <desc>07:10 PM PST / 08:10 PM MST / 10:10 PM EST - (11/27/2024)</desc>
+  </programme>
   <channel id="FOX.(WNYW).New.York,.NY.us">
     <display-name></display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" />
