@@ -1,5 +1,3 @@
-**Notice:** The EPG data is currently unavailable. I am in the process of remapping the channels.
-
 ## What is TheTVApp?
 
 TheTVApp is a platform that offers free live TV and sports streaming across selected categories. Users can stream and watch live TV directly through their browser without the need for an account or subscription.
