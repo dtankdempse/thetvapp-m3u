@@ -1,4 +1,4 @@
-**Notice:** Due to excessive abuse of this playlist with the large amount of requests coming in per second, it is no longer possible to maintain it on a free tier service. If you wish to use TheTVApp playlist, you will need to host it in your own environment. I will prepare and package the necessary files, which will be listed here once ready. Thank you for your understanding.
+**Notice:** Due to excessive abuse of this playlist with the large amount of requests coming in per second, it is no longer possible to maintain it on a free tier service. If you wish to use TheTVApp playlist, you will need to host it in your own environment. I will prepare and package the necessary files, which will be listed here once ready.
 
 ## What is TheTVApp?
 
