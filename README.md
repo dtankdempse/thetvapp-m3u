@@ -1,34 +1,38 @@
-**Notice:** Due to excessive abuse of this playlist with the large amount of requests coming in per second, it is no longer possible to maintain it on a free tier service. If you wish to use TheTVApp playlist, you will need to host it in your own environment. I will prepare and package the necessary files, which will be listed here once ready.
-
 ## What is TheTVApp?
 
 TheTVApp is a platform that offers free live TV and sports streaming across selected categories. Users can stream and watch live TV directly through their browser without the need for an account or subscription.
 
-For added flexibility, this repository provides an M3U playlist featuring TheTVApp's channels. With this, you can load the streams into any IPTV application that supports M3U-formatted playlists.
+For added flexibility, this repository provides a way to create an M3U Playlist of TheTVApp's channels. With this, you can load the streams into any IPTV application that supports M3U-formatted playlists.
 
 You can view the full list of channels provided by TheTVApp [here](http://href.li/https://thetvapp.to/).
 
-## How to Use the M3U Playlist
+## Direct M3U Playlist URL
 
-To use M3U playlist in your IPTV application, look for the option to import an M3U playlist within the app's settings. Once you find the import option, simply copy and paste the Playlist URL and EPG URL listed below into the respective fields.
+Due to ongoing abuse, the previous setup allowing you to easily load the Bit.ly URL into your application has been temporarily removed. However, I’m actively working on a solution to bring this feature back and will provide updates in the coming days. In the meantime, if you're able to use one of the options below, you can continue accessing TheTVApp's M3U Playlist.
 
-### Playlist URL:
-``https://bit.ly/tta-m3u``
+## Windows Users
 
-### EPG URLs:
-- **XML Format:** `https://bit.ly/tta-epg`
-- **Compressed:** `https://bit.ly/tta-epg-gz`
+Download and extract the zip file below. Once the files are extracted, run the setup_service.bat file to begin installing the TheTVApp-M3U playlist on your computer. After the installation is complete, you can access the local server to locate both the playlist and EPG URLs. These URLs can then be used to load the playlist into your application, such as Firestick, Android, or other devices.
 
-## Playlist & EPG Refresh
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-brightgreen)](https://github.com/dtankdempse/thetvapp-m3u/raw/refs/heads/main/win/thetvapp-m3u.zip)
 
-Since the playlist is dynamically generated, we recommend setting your application to reimport the playlist every 8 hours to ensure it remains up-to-date. If you encounter a 403 error, it indicates that your playlist has expired and needs to be refreshed. Both the playlist and EPG data are updated twice daily, so it's best to sync your playlist and guide information at the same time within your IPTV application. If you see "No information" displayed in the sports section of the guide, manually refreshing the EPG should resolve the issue and load the latest data.
+## Docker Users
 
-## Rate Limit Information
+TheTVApp-M3U Playlit is also available as a Docker image, allowing you to easily deploy it in a containerized environment.
 
-**Note**: There is a limit of 5 playlist requests per IP address within a 2-hour window.
+### Pulling the Docker Image
 
-The rate limit applies per IP address. This means that from a single location, you can request the playlist up to 5 times within 2 hours. After reaching the limit, additional requests will be blocked for the following 2 hours. However, you can easily set up 5 or more devices from your location with a refresh interval of 8 hours, and still remain comfortably within the rate limit.
+To get started, pull the latest version of the M3U Playlist Proxy Docker image with the following command:
 
+`docker pull dtankdemp/thetvapp-m3u:latest`
+
+### Running TheTVApp-M3U Container
+
+Once you’ve pulled the image, you can start the container using:
+
+`docker run -d -p <port>:4124 dtankdemp/thetvapp-m3u:latest`
+
+This command runs thetvapp-m3u on port 4124, allowing your IPTV application to connect to it locally or remotely (depending on your setup).
 
 ## Disclaimer:
 
