@@ -1,3 +1,5 @@
+**Note:** TheTVApp has restricted their webite to users in the US and CA regions. To access it from other locations, you will need to use a VPN.
+
 ## What is TheTVApp?
 
 TheTVApp is a platform that offers free live TV and sports streaming across selected categories. Users can stream and watch live TV directly through their browser without the need for an account or subscription.
