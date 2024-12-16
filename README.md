@@ -6,8 +6,6 @@ For added flexibility, this repository provides a way to create an M3U Playlist 
 
 You can view the full list of channels provided by TheTVApp [here](http://href.li/https://thetvapp.to/).
 
----
-
 ## Direct M3U Playlist URL
 
 Due to ongoing abuse, the previous setup allowing you to easily load the Bit.ly URL into your application has been temporarily removed. However, I’m actively working on a solution to bring this feature back and will provide updates in the coming days. In the meantime, if you're able to use one of the options below, you can continue accessing TheTVApp's M3U Playlist.
@@ -51,7 +49,7 @@ To access the server, use one of the following URLs:
 - **Local Access:** `http://localhost:4124`
 - **Network Access:** `http://IP_ADDRESS:4124`
 
-If you plan to use the playlist on other devices within your network, make sure to use your computer's actual IP address instead of `localhost`. To locate your computer's IP address, refer to these quick guides for [Windows](https://www.youtube.com/watch?v=_FHuWzC8BKE) or [Linux](https://www.youtube.com/watch?v=gaIYP4TZfHI).
+If you plan to use the playlist on other devices within your network, make sure to use your computer's actual IP address instead of `localhost`. To locate your computer's IP address, refer to these viseo guides for [Windows](https://www.youtube.com/watch?v=_FHuWzC8BKE) or [Linux](https://www.youtube.com/watch?v=gaIYP4TZfHI).
 
 #### Playlist and EPG URLs
 
