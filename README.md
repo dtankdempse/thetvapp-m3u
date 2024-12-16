@@ -26,7 +26,7 @@ TheTVApp-M3U Playlit is also available as a Docker image, allowing you to easily
 
 ### Pulling the Docker Image
 
-To get started, pull the latest version of the M3U Playlist Proxy Docker image with the following command:
+To get started, pull the latest version of the Docker image with the following command:
 
 `docker pull dtankdemp/thetvapp-m3u:latest`
 
