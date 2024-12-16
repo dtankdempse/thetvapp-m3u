@@ -49,7 +49,7 @@ To access the server, use one of the following URLs:
 - **Local Access:** `http://localhost:4124`
 - **Network Access:** `http://IP_ADDRESS:4124`
 
-If you plan to use the playlist on other devices within your network, make sure to use your computer's actual IP address instead of `localhost`. To locate your computer's IP address, refer to these viseo guides for [Windows](https://www.youtube.com/watch?v=_FHuWzC8BKE) or [Linux](https://www.youtube.com/watch?v=gaIYP4TZfHI).
+If you plan to use the playlist on other devices within your network, make sure to use your computer's actual IP address instead of `localhost`. To locate your computer's IP address, refer to these video guides for [Windows](https://www.youtube.com/watch?v=_FHuWzC8BKE) or [Linux](https://www.youtube.com/watch?v=gaIYP4TZfHI).
 
 #### Playlist and EPG URLs
 
