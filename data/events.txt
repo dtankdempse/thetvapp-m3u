@@ -28,5 +28,8 @@ https://[SUB_DOMAIN].thetvapp.to/hls/NHL09/index.m3u8?token=[TOKEN]
 #EXTINF:-1 tvg-id="af66702c2afa4365059a06824b768be0" tvg-name="Winnipeg Jets vs. San Jose Sharks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",10:30 PM - Winnipeg Jets vs. San Jose Sharks - 10:30 PM EST - (12/17/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/tsn3/index.m3u8?token=[TOKEN]
 
+#EXTINF:-1 tvg-id="a47b0f469d08c69eb6d79a5625d31138" tvg-name="Milwaukee Bucks vs. Oklahoma City Thunder" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",8:40 PM - Milwaukee Bucks vs. Oklahoma City Thunder - 08:40 PM EST - (12/17/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WABCDT1/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="ae966821b8d3d5296e2dff34f9bc803a" tvg-name="Memphis Tigers vs. West Virginia Mountaineers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",9:00 PM - Memphis Tigers vs. West Virginia Mountaineers - 09:00 PM EST - (12/17/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
