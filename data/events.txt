@@ -6,3 +6,4 @@ https://[SUB_DOMAIN].thetvapp.to/hls/tsn3/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="a80fedf6377d0f3d3265e99c866640df" tvg-name="Vancouver Canucks vs. Utah Hockey Club" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",10:00 PM - Vancouver Canucks vs. Utah Hockey Club - 10:00 PM EST - (12/18/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-one/index.m3u8?token=[TOKEN]
+
