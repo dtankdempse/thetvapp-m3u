@@ -1,35 +1,8 @@
-#EXTINF:-1 tvg-id="967dd479697ed37648ccaa6b9cb3cdb8" tvg-name="Buffalo Sabres vs. Montréal Canadiens" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Buffalo Sabres vs. Montréal Canadiens - 07:00 PM EST - (12/17/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/tsn2/index.m3u8?token=[TOKEN]
+#EXTINF:-1 tvg-id="e51c0179d8db369952014c32539b3c42" tvg-name="Florida Panthers vs. Minnesota Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",9:30 PM - Florida Panthers vs. Minnesota Wild - 09:30 PM EST - (12/18/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/TNTEast/index.m3u8?token=[TOKEN]
 
-#EXTINF:-1 tvg-id="024ea445aaabcafc8c86809eec3de1a3" tvg-name="Columbus Blue Jackets vs. Tampa Bay Lightning" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Columbus Blue Jackets vs. Tampa Bay Lightning - 07:00 PM EST - (12/17/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/NHL02/index.m3u8?token=[TOKEN]
-
-#EXTINF:-1 tvg-id="f6e2d270b20b78ca76d49eeff1e802b9" tvg-name="Los Angeles Kings vs. Pittsburgh Penguins" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Los Angeles Kings vs. Pittsburgh Penguins - 07:00 PM EST - (12/17/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
-
-#EXTINF:-1 tvg-id="30b50cfa5667e6ac7621c30b90d23a48" tvg-name="New York Islanders vs. Carolina Hurricanes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:30 PM - New York Islanders vs. Carolina Hurricanes - 07:30 PM EST - (12/17/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/NHL04/index.m3u8?token=[TOKEN]
-
-#EXTINF:-1 tvg-id="3f905bf1cd6cdf3b9e9d83fc9304111e" tvg-name="New York Rangers vs. Nashville Predators" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",8:00 PM - New York Rangers vs. Nashville Predators - 08:00 PM EST - (12/17/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/NHL06/index.m3u8?token=[TOKEN]
-
-#EXTINF:-1 tvg-id="7b8d056c0ed56c2de085450a9e715276" tvg-name="New Jersey Devils vs. St Louis Blues" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",8:00 PM - New Jersey Devils vs. St Louis Blues - 08:00 PM EST - (12/17/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/NHL05/index.m3u8?token=[TOKEN]
-
-#EXTINF:-1 tvg-id="369eee6eceb694285a53bc581aa9f17a" tvg-name="Washington Capitals vs. Chicago Blackhawks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",8:30 PM - Washington Capitals vs. Chicago Blackhawks - 08:30 PM EST - (12/17/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/NHL07/index.m3u8?token=[TOKEN]
-
-#EXTINF:-1 tvg-id="94e929b596a009f22ad93b8adf1e483a" tvg-name="Boston Bruins vs. Calgary Flames" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",9:00 PM - Boston Bruins vs. Calgary Flames - 09:00 PM EST - (12/17/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/NHL08/index.m3u8?token=[TOKEN]
-
-#EXTINF:-1 tvg-id="9f15b9e75eb1b3f6666ca6d1fe6855c9" tvg-name="Ottawa Senators vs. Seattle Kraken" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",10:00 PM - Ottawa Senators vs. Seattle Kraken - 10:00 PM EST - (12/17/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/NHL09/index.m3u8?token=[TOKEN]
-
-#EXTINF:-1 tvg-id="af66702c2afa4365059a06824b768be0" tvg-name="Winnipeg Jets vs. San Jose Sharks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",10:30 PM - Winnipeg Jets vs. San Jose Sharks - 10:30 PM EST - (12/17/2024)
+#EXTINF:-1 tvg-id="f74dcb4a7ab5b423a9b5945c385fe84b" tvg-name="Winnipeg Jets vs. Anaheim Ducks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",10:00 PM - Winnipeg Jets vs. Anaheim Ducks - 10:00 PM EST - (12/18/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/tsn3/index.m3u8?token=[TOKEN]
 
-#EXTINF:-1 tvg-id="a47b0f469d08c69eb6d79a5625d31138" tvg-name="Milwaukee Bucks vs. Oklahoma City Thunder" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",8:40 PM - Milwaukee Bucks vs. Oklahoma City Thunder - 08:40 PM EST - (12/17/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/WABCDT1/index.m3u8?token=[TOKEN]
-
-#EXTINF:-1 tvg-id="ae966821b8d3d5296e2dff34f9bc803a" tvg-name="Memphis Tigers vs. West Virginia Mountaineers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",9:00 PM - Memphis Tigers vs. West Virginia Mountaineers - 09:00 PM EST - (12/17/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+#EXTINF:-1 tvg-id="a80fedf6377d0f3d3265e99c866640df" tvg-name="Vancouver Canucks vs. Utah Hockey Club" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",10:00 PM - Vancouver Canucks vs. Utah Hockey Club - 10:00 PM EST - (12/18/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-one/index.m3u8?token=[TOKEN]
