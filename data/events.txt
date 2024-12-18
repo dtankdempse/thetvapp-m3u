@@ -1,3 +1,15 @@
+#EXTINF:-1 tvg-id="3cd00977ec63de27e1aca302086adc74" tvg-name="Western Kentucky Hilltoppers vs. James Madison Dukes" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",5:30 PM - Western Kentucky Hilltoppers vs. James Madison Dukes - 05:30 PM EST - (12/18/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="d8d455b217699cf39178e57d723ea365" tvg-name="California Golden Bears vs. UNLV Rebels" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",9:00 PM - California Golden Bears vs. UNLV Rebels - 09:00 PM EST - (12/18/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="630e4372baf0f87840ec50944b1ebe7c" tvg-name="Philadelphia Flyers vs. Detroit Red Wings" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Philadelphia Flyers vs. Detroit Red Wings - 07:00 PM EST - (12/18/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/TNTEast/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="5d82878bbd6bcb3f9c7301b5d2abf7f8" tvg-name="Toronto Maple Leafs vs. Dallas Stars" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:30 PM - Toronto Maple Leafs vs. Dallas Stars - 07:30 PM EST - (12/18/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="e51c0179d8db369952014c32539b3c42" tvg-name="Florida Panthers vs. Minnesota Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",9:30 PM - Florida Panthers vs. Minnesota Wild - 09:30 PM EST - (12/18/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/TNTEast/index.m3u8?token=[TOKEN]
 
