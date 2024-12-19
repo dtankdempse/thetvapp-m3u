@@ -40,8 +40,6 @@ Once you’ve pulled the image, you can start the container using:
 
 This command runs thetvapp-m3u on port 4124, allowing your IPTV application to connect to it locally or remotely (depending on your setup).
 
-The playlist and EPG details will be available at either:
-
 ---
 
 ### Accessing the Server
