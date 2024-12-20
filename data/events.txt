@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-id="2aba7d46aa8033a1976f9daec5503e0f" tvg-name="Ohio Bobcats vs. Jacksonville State Gamecocks" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",12:00 PM - Ohio Bobcats vs. Jacksonville State Gamecocks - 12:00 PM EST - (12/20/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="86c33283b910afc9b1becdc46348b1ab" tvg-name="Tulane Green Wave vs. Florida Gators" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Tulane Green Wave vs. Florida Gators - 03:30 PM EST - (12/20/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/ESPN2/index.m3u8?token=[TOKEN]
 
