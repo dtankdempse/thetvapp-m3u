@@ -1,0 +1,36 @@
+#EXTINF:-1 tvg-id="86c33283b910afc9b1becdc46348b1ab" tvg-name="Tulane Green Wave vs. Florida Gators" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Tulane Green Wave vs. Florida Gators - 03:30 PM EST - (12/20/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN2/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="f1628ce0c384038e3b6af5529c9e97ea" tvg-name="Indiana Hoosiers vs. Notre Dame Fighting Irish" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",8:00 PM - Indiana Hoosiers vs. Notre Dame Fighting Irish - 08:00 PM EST - (12/20/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WABCDT1/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="d609932b8eb23753e5fbdfe856b989e9" tvg-name="Toronto Maple Leafs vs. Buffalo Sabres" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Toronto Maple Leafs vs. Buffalo Sabres - 07:00 PM EST - (12/20/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-ontario/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="e2b5ae68224695202bb168288fbba788" tvg-name="Carolina Hurricanes vs. Washington Capitals" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Carolina Hurricanes vs. Washington Capitals - 07:00 PM EST - (12/20/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="9afba1dddf7aa5be362435d9e80260fe" tvg-name="Montréal Canadiens vs. Detroit Red Wings" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - Montréal Canadiens vs. Detroit Red Wings - 07:00 PM EST - (12/20/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn2/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="4c95c9d1eb77b0bc777a8b3935578963" tvg-name="St Louis Blues vs. Florida Panthers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",7:00 PM - St Louis Blues vs. Florida Panthers - 07:00 PM EST - (12/20/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/fanduel-sports-network-indiana/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="77ac8bde35bb657bc19e060a96eab887" tvg-name="New York Rangers vs. Dallas Stars" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",8:00 PM - New York Rangers vs. Dallas Stars - 08:00 PM EST - (12/20/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/MSGSN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="e79308efae8418dd726bd10b9cf8336b" tvg-name="Utah Hockey Club vs. Minnesota Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",8:00 PM - Utah Hockey Club vs. Minnesota Wild - 08:00 PM EST - (12/20/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/fanduel-sports-network-north/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="5b6752f932526077da40440d34b1d935" tvg-name="Colorado Avalanche vs. Anaheim Ducks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",10:00 PM - Colorado Avalanche vs. Anaheim Ducks - 10:00 PM EST - (12/20/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="dd342c251bb2795e81e2deec3e60ae30" tvg-name="Charlotte Hornets vs. Philadelphia 76ers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",7:10 PM - Charlotte Hornets vs. Philadelphia 76ers - 07:10 PM EST - (12/20/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA02/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="63513492e4411267666fbac6b676b99b" tvg-name="Milwaukee Bucks vs. Cleveland Cavaliers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",7:40 PM - Milwaukee Bucks vs. Cleveland Cavaliers - 07:40 PM EST - (12/20/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="983545289b3b62a7fcfaab56c63d9cea" tvg-name="Oklahoma City Thunder vs. Miami Heat" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",8:10 PM - Oklahoma City Thunder vs. Miami Heat - 08:10 PM EST - (12/20/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA16/index.m3u8?token=[TOKEN]
+
