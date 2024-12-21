@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="ab38efe12ce8aa1b4b4f08be74dc6b99" tvg-name="SMU Mustangs vs. Penn State Nittany Lions" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",12:00 PM - SMU Mustangs vs. Penn State Nittany Lions - 12:00 PM EST - (12/21/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/TNTEast/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="08f36eadd5002c7203d81ac4887c1dcd" tvg-name="Clemson Tigers vs. Texas Longhorns" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",4:00 PM - Clemson Tigers vs. Texas Longhorns - 04:00 PM EST - (12/21/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/TNTEast/index.m3u8?token=[TOKEN]
+
