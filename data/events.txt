@@ -1,0 +1,63 @@
+#EXTINF:-1 tvg-id="29940bbef2427e4e52511a728d17b890" tvg-name="Carolina Hurricanes vs. New York Rangers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",12:40 PM - Carolina Hurricanes vs. New York Rangers - 12:40 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NHLNetwork/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="aedd7a8c35cc373c7cf1a908af75f49d" tvg-name="Los Angeles Kings vs. Washington Capitals" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",5:10 PM - Los Angeles Kings vs. Washington Capitals - 05:10 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/monumental-sports-network/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="8b57dc0c50c7cda1a4cf8c583c89edef" tvg-name="Florida Panthers vs. Tampa Bay Lightning" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",5:10 PM - Florida Panthers vs. Tampa Bay Lightning - 05:10 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="4e8c0406f19239a41c8fec9271f66d65" tvg-name="Anaheim Ducks vs. Utah Hockey Club" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",5:10 PM - Anaheim Ducks vs. Utah Hockey Club - 05:10 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NHL33/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="5cff1130d5ac6533c114334e06977ba6" tvg-name="Ottawa Senators vs. Edmonton Oilers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",8:10 PM - Ottawa Senators vs. Edmonton Oilers - 08:10 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn5/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="08ac4ae52f1f5fb54af863d631c3337f" tvg-name="Seattle Kraken vs. Colorado Avalanche" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",8:10 PM - Seattle Kraken vs. Colorado Avalanche - 08:10 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="d2d7a924779e155714fe00ca0a8f4a18" tvg-name="Los Angeles Rams vs. New York Jets" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nfl-icon-us.png" group-title="NFL Football",1:00 PM - Los Angeles Rams vs. New York Jets - 01:00 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WCBSDT1/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="ff4902bebb8ecd7c97c761e994f151b0" tvg-name="Cleveland Browns vs. Cincinnati Bengals" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nfl-icon-us.png" group-title="NFL Football",1:00 PM - Cleveland Browns vs. Cincinnati Bengals - 01:00 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WKRC/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="8abd7d27c8210578dfa8aa0ba9e4428c" tvg-name="Philadelphia Eagles vs. Washington Commanders" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nfl-icon-us.png" group-title="NFL Football",1:01 PM - Philadelphia Eagles vs. Washington Commanders - 01:01 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WTTG/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="839985efe886d4088282f0503df92096" tvg-name="Tennessee Titans vs. Indianapolis Colts" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nfl-icon-us.png" group-title="NFL Football",1:01 PM - Tennessee Titans vs. Indianapolis Colts - 01:01 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WTTV/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="73ae4beb1b0d3e42a7bcc23c2d37f15e" tvg-name="Detroit Lions vs. Chicago Bears" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nfl-icon-us.png" group-title="NFL Football",1:01 PM - Detroit Lions vs. Chicago Bears - 01:01 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WFLD/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="51544898757f3603835e8a45bdad6b8e" tvg-name="New York Giants vs. Atlanta Falcons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nfl-icon-us.png" group-title="NFL Football",1:01 PM - New York Giants vs. Atlanta Falcons - 01:01 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WNYWDT1/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="751a4d54e07634902a6689da463c31d9" tvg-name="Arizona Cardinals vs. Carolina Panthers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nfl-icon-us.png" group-title="NFL Football",1:01 PM - Arizona Cardinals vs. Carolina Panthers - 01:01 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WJZY/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="8c178e3e8d5302f43ec9ff03c04caa13" tvg-name="Minnesota Vikings vs. Seattle Seahawks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nfl-icon-us.png" group-title="NFL Football",4:06 PM - Minnesota Vikings vs. Seattle Seahawks - 04:06 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/KCPQ/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="f94f1be85310ed97dae8c0f3b633b540" tvg-name="New England Patriots vs. Buffalo Bills" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nfl-icon-us.png" group-title="NFL Football",4:25 PM - New England Patriots vs. Buffalo Bills - 04:25 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WCBSDT1/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="d7ed4c022245e92074fb5a0daaa6b5bf" tvg-name="San Francisco 49ers vs. Miami Dolphins" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nfl-icon-us.png" group-title="NFL Football",4:25 PM - San Francisco 49ers vs. Miami Dolphins - 04:25 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WFOR/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="e700ed21b2c039d703cccaae881729fd" tvg-name="Jacksonville Jaguars vs. Las Vegas Raiders" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nfl-icon-us.png" group-title="NFL Football",4:26 PM - Jacksonville Jaguars vs. Las Vegas Raiders - 04:26 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/KLAS/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="bb33708a4cafee5eac0593bd3c007a9d" tvg-name="Tampa Bay Buccaneers vs. Dallas Cowboys" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nfl-icon-us.png" group-title="NFL Football",8:21 PM - Tampa Bay Buccaneers vs. Dallas Cowboys - 08:21 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn1/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="67922b8017e19e3c364ea91c357b534d" tvg-name="Indiana Pacers vs. Sacramento Kings" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",6:00 PM - Indiana Pacers vs. Sacramento Kings - 06:00 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA17/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="691941ed807c7c6daae330e7e54cbefb" tvg-name="Houston Rockets vs. Toronto Raptors" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",6:10 PM - Houston Rockets vs. Toronto Raptors - 06:10 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA22/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="ebe6e964a8bd65c98b814475aa0e8593" tvg-name="Denver Nuggets vs. New Orleans Pelicans" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",7:10 PM - Denver Nuggets vs. New Orleans Pelicans - 07:10 PM EST - (12/22/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA01/index.m3u8?token=[TOKEN]
+
