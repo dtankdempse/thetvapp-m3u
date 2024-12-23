@@ -55,6 +55,21 @@ https://[SUB_DOMAIN].thetvapp.to/hls/NBA06/index.m3u8?token=[TOKEN]
 #EXTINF:-1 tvg-id="ee73a88ab3a242682919f54c49bb63fe" tvg-name="San Antonio Spurs vs. Philadelphia 76ers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",7:10 PM - San Antonio Spurs vs. Philadelphia 76ers - 07:10 PM EST - (12/23/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
 
+#EXTINF:-1 tvg-id="af95fd96b5f788a733ee8ebff364930f" tvg-name="Minnesota Timberwolves vs. Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",7:40 PM - Minnesota Timberwolves vs. Atlanta Hawks - 07:40 PM EST - (12/23/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA28/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="38388edce22fba249d6c42cf72273eb5" tvg-name="Brooklyn Nets vs. Miami Heat" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",7:40 PM - Brooklyn Nets vs. Miami Heat - 07:40 PM EST - (12/23/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA16/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="abc916662ff7f92bfd5492d03854c7b1" tvg-name="Toronto Raptors vs. New York Knicks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",7:40 PM - Toronto Raptors vs. New York Knicks - 07:40 PM EST - (12/23/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA09/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="9ce9390c32e6d24a1939b085bf9b5dcd" tvg-name="Washington Wizards vs. Oklahoma City Thunder" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",8:10 PM - Washington Wizards vs. Oklahoma City Thunder - 08:10 PM EST - (12/23/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA24/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="5c9c16cf53fca45b52584795a5729b82" tvg-name="Los Angeles Clippers vs. Memphis Grizzlies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",8:10 PM - Los Angeles Clippers vs. Memphis Grizzlies - 08:10 PM EST - (12/23/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA11/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="ad3e89d4f70e1e168f62c848918dcc1c" tvg-name="Milwaukee Bucks vs. Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",8:10 PM - Milwaukee Bucks vs. Chicago Bulls - 08:10 PM EST - (12/23/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA15/index.m3u8?token=[TOKEN]
 
