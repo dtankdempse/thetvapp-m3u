@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="75d760e01f326d56273d7e39850c08e9" tvg-name="South Florida Bulls vs. San Jose State Spartans" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",8:00 PM - South Florida Bulls vs. San Jose State Spartans - 08:00 PM EST - (12/24/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
