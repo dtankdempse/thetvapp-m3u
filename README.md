@@ -63,6 +63,6 @@ This repository has no control over the streams, links, or the legality of the c
 
 ### DMCA Notice:
 
-This repository does not contain any video files. It simply organizes publicly accessible web links, that can be accessed by a web browser into an M3U-formatted playlist. As far as we are aware, these websites have the necessary rights from copyright holders to stream and share the content they provide. However, if you are a copyright holder and believe that any link infringes on your rights, you can request it's removal by opening an [issue](https://github.com/dtankdempse/thetvapp-m3u/issues) or submitting a [pull request](https://github.com/dtankdempse/thetvapp-m3u/pulls).
+This repository does not host or store any video files. It simply organizes publicly accessible web links, which can be accessed through a web browser, into an M3U-formatted playlist. To the best of our knowledge, these websites have been granted permission by the copyright holders to stream and share the content they provide. However, if you are a copyright holder and believe that any link infringes on your rights, you can request it's removal by opening an [issue](https://github.com/dtankdempse/thetvapp-m3u/issues) or submitting a [pull request](https://github.com/dtankdempse/thetvapp-m3u/pulls).
 
 Please be aware that requesting the removal of a link here will not affect the content hosted on the external websites, as this repository has no control over the files or the content being provided.
