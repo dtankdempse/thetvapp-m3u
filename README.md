@@ -62,7 +62,7 @@ If you plan to use the playlist on other devices within your network, make sure 
   
 ### Disclaimer:
 
-This repository has no control over the streams, links, or the legality of the content provided by thetvapp.to. It is the end user's responsibility to ensure the legal use of these streams, and we strongly recommend verifying that the content complies with the laws and regulations of your country before use.
+This repository has no control over the streams, links, or the legality of the content provided by thetvapp.to. It is the end user's responsibility to ensure the legal use of these playlists, and we strongly recommend verifying that the content complies with the laws and regulations of your country before use.
 </details>
 
 <details>
