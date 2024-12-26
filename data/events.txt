@@ -7,8 +7,32 @@ https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
 #EXTINF:-1 tvg-id="beb17bc05456965a14756cc0e7ed8ead" tvg-name="Arkansas State Red Wolves vs. Bowling Green Falcons" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",9:00 PM - Arkansas State Red Wolves vs. Bowling Green Falcons - 09:00 PM EST - (12/26/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
 
+#EXTINF:-1 tvg-id="2251cd6e68e634f7ddc120e0b8f5c6e0" tvg-name="Charlotte Hornets vs. Washington Wizards" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/33fxui1728122983.jpg/preview" group-title="NBA Basketball",7:00 PM - Charlotte Hornets vs. Washington Wizards - 07:00 PM EST - (12/26/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA26/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="4d0ead6db032bc5c52b544d3a27821a1" tvg-name="Miami Heat vs. Orlando Magic" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ma0fs81728122639.jpg/preview" group-title="NBA Basketball",7:00 PM - Miami Heat vs. Orlando Magic - 07:00 PM EST - (12/26/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA25/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="8f57b8c2e222cf1af1b302200af02b4a" tvg-name="Oklahoma City Thunder vs. Indiana Pacers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/olerj71728123340.jpg/preview" group-title="NBA Basketball",7:10 PM - Oklahoma City Thunder vs. Indiana Pacers - 07:10 PM EST - (12/26/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="ac75818ad1545ef65d0728a9d367d7fa" tvg-name="Chicago Bulls vs. Atlanta Hawks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/xvajkd1728122494.jpg/preview" group-title="NBA Basketball",7:40 PM - Chicago Bulls vs. Atlanta Hawks - 07:40 PM EST - (12/26/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA28/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="00d2271bbcba595dc108ba41e316a7a8" tvg-name="Brooklyn Nets vs. Milwaukee Bucks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/y2frvt1728122164.jpg/preview" group-title="NBA Basketball",8:10 PM - Brooklyn Nets vs. Milwaukee Bucks - 08:10 PM EST - (12/26/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA21/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="6600c1b1c2712547df313053b9847148" tvg-name="Houston Rockets vs. New Orleans Pelicans" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/seatyn1728329426.jpg/preview" group-title="NBA Basketball",8:10 PM - Houston Rockets vs. New Orleans Pelicans - 08:10 PM EST - (12/26/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA01/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="9d71460f65c2fae5c4417d380ccd9512" tvg-name="Toronto Raptors vs. Memphis Grizzlies" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/agtzdg1728122751.jpg/preview" group-title="NBA Basketball",8:10 PM - Toronto Raptors vs. Memphis Grizzlies - 08:10 PM EST - (12/26/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA11/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="561a282b5d583164dbbc021bc54b068b" tvg-name="Detroit Pistons vs. Sacramento Kings" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/w5wudc1728123444.jpg/preview" group-title="NBA Basketball",10:10 PM - Detroit Pistons vs. Sacramento Kings - 10:10 PM EST - (12/26/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA17/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="16f3d9b5f3f0b25ce64249d4a8e7f9f3" tvg-name="Utah Jazz vs. Portland Trail Blazers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/2wlirw1728123473.jpg/preview" group-title="NBA Basketball",10:10 PM - Utah Jazz vs. Portland Trail Blazers - 10:10 PM EST - (12/26/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="2495b657ae28857610613b655fd94d7c" tvg-name="Seattle Seahawks vs. Chicago Bears" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/x04frd1659687040.jpg/preview" group-title="NFL Football",8:16 PM - Seattle Seahawks vs. Chicago Bears - 08:16 PM EST - (12/26/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/tsn3/index.m3u8?token=[TOKEN]
