@@ -1,0 +1,15 @@
+#EXTINF:-1 tvg-id="0675d099645d106df926bc13e4cb8d9e" tvg-name="Pittsburgh Panthers vs. Toledo Rockets" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",2:00 PM - Pittsburgh Panthers vs. Toledo Rockets - 02:00 PM EST - (12/26/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="c47b7198a53e4c4f30c3bbfa453e3df4" tvg-name="Rutgers Scarlet Knights vs. Kansas State Wildcats" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",5:30 PM - Rutgers Scarlet Knights vs. Kansas State Wildcats - 05:30 PM EST - (12/26/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="beb17bc05456965a14756cc0e7ed8ead" tvg-name="Arkansas State Red Wolves vs. Bowling Green Falcons" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",9:00 PM - Arkansas State Red Wolves vs. Bowling Green Falcons - 09:00 PM EST - (12/26/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="4d0ead6db032bc5c52b544d3a27821a1" tvg-name="Miami Heat vs. Orlando Magic" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ma0fs81728122639.jpg/preview" group-title="NBA Basketball",7:00 PM - Miami Heat vs. Orlando Magic - 07:00 PM EST - (12/26/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA25/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="2495b657ae28857610613b655fd94d7c" tvg-name="Seattle Seahawks vs. Chicago Bears" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/x04frd1659687040.jpg/preview" group-title="NFL Football",8:16 PM - Seattle Seahawks vs. Chicago Bears - 08:16 PM EST - (12/26/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn3/index.m3u8?token=[TOKEN]
+
