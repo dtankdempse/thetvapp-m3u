@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-id="769b69364ff39f7417357f0d4fb87c81" tvg-name="Oklahoma Sooners vs. Navy Midshipmen" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",12:00 PM - Oklahoma Sooners vs. Navy Midshipmen - 12:00 PM EST - (12/27/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="939730ff0f4bb5c37ef0a33f1d6908cb" tvg-name="Georgia Tech Yellow Jackets vs. Vanderbilt Commodores" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Georgia Tech Yellow Jackets vs. Vanderbilt Commodores - 03:30 PM EST - (12/27/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
 
@@ -9,6 +12,9 @@ https://[SUB_DOMAIN].thetvapp.to/hls/WNYWDT1/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="30b1e016552ee34186d9fcbc8f709f7a" tvg-name="Texas A&M Aggies vs. USC Trojans" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",10:30 PM - Texas A&M Aggies vs. USC Trojans - 10:30 PM EST - (12/27/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="0f6abe3d50912d9695d70c4e1ba650af" tvg-name="Toronto Maple Leafs vs. Detroit Red Wings" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/lt1m1c1697622051.jpg/preview" group-title="NHL Hockey",7:00 PM - Toronto Maple Leafs vs. Detroit Red Wings - 07:00 PM EST - (12/27/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-ontario/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="e6f2a9f2f86a7ed20e4767da37b7b079" tvg-name="Carolina Hurricanes vs. New Jersey Devils" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/u6v7qv1697621827.jpg/preview" group-title="NHL Hockey",7:00 PM - Carolina Hurricanes vs. New Jersey Devils - 07:00 PM EST - (12/27/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/MSGSN/index.m3u8?token=[TOKEN]
@@ -37,6 +43,12 @@ https://[SUB_DOMAIN].thetvapp.to/hls/NBA25/index.m3u8?token=[TOKEN]
 #EXTINF:-1 tvg-id="32f8d5a9ab1ed57e99e7a80e46cee981" tvg-name="Indiana Pacers vs. Boston Celtics" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/0bey0t1728121716.jpg/preview" group-title="NBA Basketball",7:40 PM - Indiana Pacers vs. Boston Celtics - 07:40 PM EST - (12/27/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
 
+#EXTINF:-1 tvg-id="b97a6d5b0b7a5a9f612303612a72db8b" tvg-name="San Antonio Spurs vs. Brooklyn Nets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/d8nfhk1728123030.jpg/preview" group-title="NBA Basketball",7:40 PM - San Antonio Spurs vs. Brooklyn Nets - 07:40 PM EST - (12/27/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA20/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="b3c3c4b05171b0f62d04b0017adb4ddd" tvg-name="Memphis Grizzlies vs. New Orleans Pelicans" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/abflem1728122609.jpg/preview" group-title="NBA Basketball",8:10 PM - Memphis Grizzlies vs. New Orleans Pelicans - 08:10 PM EST - (12/27/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA01/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="a8fffa9551df60b0772ad77918b1a794" tvg-name="Minnesota Timberwolves vs. Houston Rockets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/trgda41728122770.jpg/preview" group-title="NBA Basketball",8:10 PM - Minnesota Timberwolves vs. Houston Rockets - 08:10 PM EST - (12/27/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA22/index.m3u8?token=[TOKEN]
 
@@ -45,4 +57,7 @@ https://[SUB_DOMAIN].thetvapp.to/hls/NBA13/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="e12d6a4bccfe20f7de6cc5466542522e" tvg-name="Cleveland Cavaliers vs. Denver Nuggets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/c0s2e11728122129.jpg/preview" group-title="NBA Basketball",9:10 PM - Cleveland Cavaliers vs. Denver Nuggets - 09:10 PM EST - (12/27/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA23/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="b6d02058c7603b8b49fba0248affb02d" tvg-name="Golden State Warriors vs. Los Angeles Clippers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/n07sfa1728123523.jpg/preview" group-title="NBA Basketball",10:10 PM - Golden State Warriors vs. Los Angeles Clippers - 10:10 PM EST - (12/27/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
 
