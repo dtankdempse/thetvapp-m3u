@@ -34,20 +34,20 @@ https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
 #EXTINF:-1 tvg-id="95fa161d3deb16e073f161ec62c38699" tvg-name="Seattle Kraken vs. Vancouver Canucks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/dzib6w1697621869.jpg/preview" group-title="NHL Hockey",4:00 PM - Seattle Kraken vs. Vancouver Canucks - 04:00 PM EST - (12/28/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-pacific/index.m3u8?token=[TOKEN]
 
-#EXTINF:-1 tvg-id="4bf86889e24e6ae33d4cc3143f9468b1" tvg-name="New York Rangers vs. Tampa Bay Lightning" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/lnoxt71697621816.jpg/preview" group-title="NHL Hockey",7:00 PM - New York Rangers vs. Tampa Bay Lightning - 07:00 PM EST - (12/28/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/bally-sports-sun-tampa/index.m3u8?token=[TOKEN]
+#EXTINF:-1 tvg-id="8423de23426edef82d26a37ef4467d13" tvg-name="Ottawa Senators vs. Winnipeg Jets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/v0ui591697618692.jpg/preview" group-title="NHL Hockey",7:00 PM - Ottawa Senators vs. Winnipeg Jets - 07:00 PM EST - (12/28/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-west/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="188e3f43d60c2789d2e1482744644061" tvg-name="Washington Capitals vs. Toronto Maple Leafs" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/osa54m1697621962.jpg/preview" group-title="NHL Hockey",7:00 PM - Washington Capitals vs. Toronto Maple Leafs - 07:00 PM EST - (12/28/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NHLNetwork/index.m3u8?token=[TOKEN]
 
-#EXTINF:-1 tvg-id="8423de23426edef82d26a37ef4467d13" tvg-name="Ottawa Senators vs. Winnipeg Jets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/v0ui591697618692.jpg/preview" group-title="NHL Hockey",7:00 PM - Ottawa Senators vs. Winnipeg Jets - 07:00 PM EST - (12/28/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-west/index.m3u8?token=[TOKEN]
-
-#EXTINF:-1 tvg-id="0dc31431030f83c8ef95b535367a7436" tvg-name="New Jersey Devils vs. Carolina Hurricanes" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/g9s0r31697621922.jpg/preview" group-title="NHL Hockey",7:00 PM - New Jersey Devils vs. Carolina Hurricanes - 07:00 PM EST - (12/28/2024)
-https://[SUB_DOMAIN].thetvapp.to/hls/fanduel-sports-network-south-hurricanes/index.m3u8?token=[TOKEN]
+#EXTINF:-1 tvg-id="4bf86889e24e6ae33d4cc3143f9468b1" tvg-name="New York Rangers vs. Tampa Bay Lightning" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/lnoxt71697621816.jpg/preview" group-title="NHL Hockey",7:00 PM - New York Rangers vs. Tampa Bay Lightning - 07:00 PM EST - (12/28/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/bally-sports-sun-tampa/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="ce9cc3c37ad2426130dbf53cc270bdaa" tvg-name="Columbus Blue Jackets vs. Boston Bruins" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/vf7dfk1697617444.jpg/preview" group-title="NHL Hockey",7:00 PM - Columbus Blue Jackets vs. Boston Bruins - 07:00 PM EST - (12/28/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NESN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="0dc31431030f83c8ef95b535367a7436" tvg-name="New Jersey Devils vs. Carolina Hurricanes" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/g9s0r31697621922.jpg/preview" group-title="NHL Hockey",7:00 PM - New Jersey Devils vs. Carolina Hurricanes - 07:00 PM EST - (12/28/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/fanduel-sports-network-south-hurricanes/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="66e8af59ae66f38719fcd2c85c487922" tvg-name="Pittsburgh Penguins vs. New York Islanders" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/dk8gbb1697621858.jpg/preview" group-title="NHL Hockey",7:30 PM - Pittsburgh Penguins vs. New York Islanders - 07:30 PM EST - (12/28/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-pittsburgh/index.m3u8?token=[TOKEN]
@@ -72,4 +72,25 @@ https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="36fa32230d5b5afbcbe0fd46417d1d35" tvg-name="New York Knicks vs. Washington Wizards" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/2q5wdp1728329369.jpg/preview" group-title="NBA Basketball",7:10 PM - New York Knicks vs. Washington Wizards - 07:10 PM EST - (12/28/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA26/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="82e3f4f1c1f95712ef832bab01d539eb" tvg-name="Milwaukee Bucks vs. Chicago Bulls" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wh0yed1728329418.jpg/preview" group-title="NBA Basketball",8:10 PM - Milwaukee Bucks vs. Chicago Bulls - 08:10 PM EST - (12/28/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA15/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="c62db423f830ad2167a35c847665e1b5" tvg-name="Phoenix Suns vs. Golden State Warriors" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/xqv7oq1728123460.jpg/preview" group-title="NBA Basketball",8:40 PM - Phoenix Suns vs. Golden State Warriors - 08:40 PM EST - (12/28/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="7849437352bd30984e0f3565aa9b1600" tvg-name="Detroit Pistons vs. Denver Nuggets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uwq36i1728122967.jpg/preview" group-title="NBA Basketball",9:10 PM - Detroit Pistons vs. Denver Nuggets - 09:10 PM EST - (12/28/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA23/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="eb4b7b855a3c98d080e00d4c9076797d" tvg-name="Philadelphia 76ers vs. Utah Jazz" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/0966q81728123090.jpg/preview" group-title="NBA Basketball",9:40 PM - Philadelphia 76ers vs. Utah Jazz - 09:40 PM EST - (12/28/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA04/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="2c4a172e111b5a4a1443f779c7559c9d" tvg-name="Dallas Mavericks vs. Portland Trail Blazers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wmawg71728122429.jpg/preview" group-title="NBA Basketball",10:10 PM - Dallas Mavericks vs. Portland Trail Blazers - 10:10 PM EST - (12/28/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA27/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="de50901552480a5e5a2fef190a63ff87" tvg-name="Sacramento Kings vs. Los Angeles Lakers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/n1l29i1728122209.jpg/preview" group-title="NBA Basketball",10:40 PM - Sacramento Kings vs. Los Angeles Lakers - 10:40 PM EST - (12/28/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA30/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="763365a13e75090af3064ea73a2772f0" tvg-name="PPV | AEW Worlds End 2024" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="PPV Events",6:40 PM - PPV | AEW Worlds End 2024 - 06:40 PM EST - (12/28/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/PPV01/index.m3u8?token=[TOKEN]
 
