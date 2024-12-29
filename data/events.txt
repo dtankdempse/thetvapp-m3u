@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="02ece5a4f8c7bfe410e7bff91afbdd06" tvg-name="Edmonton Oilers vs. Anaheim Ducks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/4bmdcd1731570950.jpg/preview" group-title="NHL Hockey",4:10 PM - Edmonton Oilers vs. Anaheim Ducks - 04:10 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
+
