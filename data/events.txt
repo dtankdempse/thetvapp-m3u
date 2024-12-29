@@ -1,3 +1,63 @@
+#EXTINF:-1 tvg-id="76aefe0d61016b8704214b8a1ebe880f" tvg-name="Las Vegas Raiders vs. New Orleans Saints" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/se2ayr1599812900.jpg/preview" group-title="NFL Football",1:00 PM - Las Vegas Raiders vs. New Orleans Saints - 01:00 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WVUE/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="f4e486eeb3ba4c86dd40811c310c5b1d" tvg-name="Dallas Cowboys vs. Philadelphia Eagles" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/nr1rgf1717529833.jpg/preview" group-title="NFL Football",1:00 PM - Dallas Cowboys vs. Philadelphia Eagles - 01:00 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WTXF/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="771a5383521edcc116eea7d616645073" tvg-name="Carolina Panthers vs. Tampa Bay Buccaneers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/5r0qfv1717529881.jpg/preview" group-title="NFL Football",1:00 PM - Carolina Panthers vs. Tampa Bay Buccaneers - 01:00 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn3/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="9f6196e5faf6cb3b93c4237581f1bbff" tvg-name="New York Jets vs. Buffalo Bills" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/hstx2k1719402847.png/preview" group-title="NFL Football",1:01 PM - New York Jets vs. Buffalo Bills - 01:01 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WCBSDT1/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="581b634dd94bf79c5c996a92916628bf" tvg-name="Indianapolis Colts vs. New York Giants" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png/preview" group-title="NFL Football",1:01 PM - Indianapolis Colts vs. New York Giants - 01:01 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WNYWDT1/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="a014290722933726edc7cd4952a60aa9" tvg-name="Tennessee Titans vs. Jacksonville Jaguars" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/e0s0xi1717529887.jpg/preview" group-title="NFL Football",1:01 PM - Tennessee Titans vs. Jacksonville Jaguars - 01:01 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WJAX/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="ee4b5d78a0a6bdb09f63b0b8d9e9b485" tvg-name="Miami Dolphins vs. Cleveland Browns" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/upkfha1659714687.jpg/preview" group-title="NFL Football",4:05 PM - Miami Dolphins vs. Cleveland Browns - 04:05 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn3/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="ac12389516d97f277f7d1a6637dc242f" tvg-name="Atlanta Falcons vs. Washington Commanders" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png/preview" group-title="NFL Football",8:21 PM - Atlanta Falcons vs. Washington Commanders - 08:21 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn3/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="dd049a565b0da63e33351a34fe4e3f94" tvg-name="Buffalo Sabres vs. St Louis Blues" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",3:10 PM - Buffalo Sabres vs. St Louis Blues - 03:10 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/fanduel-sports-network-kansas-city/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="02ece5a4f8c7bfe410e7bff91afbdd06" tvg-name="Edmonton Oilers vs. Anaheim Ducks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/4bmdcd1731570950.jpg/preview" group-title="NHL Hockey",4:10 PM - Edmonton Oilers vs. Anaheim Ducks - 04:10 PM EST - (12/29/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="043781cd9bbc2ebbac02303efc98be78" tvg-name="Montréal Canadiens vs. Tampa Bay Lightning" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/0c9eo61697622017.jpg/preview" group-title="NHL Hockey",5:10 PM - Montréal Canadiens vs. Tampa Bay Lightning - 05:10 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn2/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="97a576be3c7066305a04e3e6954859e3" tvg-name="Washington Capitals vs. Detroit Red Wings" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/qaml0r1697621984.jpg/preview" group-title="NHL Hockey",5:10 PM - Washington Capitals vs. Detroit Red Wings - 05:10 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/monumental-sports-network/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="2a23b8130cf82199e061d244e6bc961e" tvg-name="New York Islanders vs. Pittsburgh Penguins" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/brle5t1697622063.jpg/preview" group-title="NHL Hockey",5:40 PM - New York Islanders vs. Pittsburgh Penguins - 05:40 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-pittsburgh/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="25b9bb30e22d96897b8292a340ee5d1f" tvg-name="Ottawa Senators vs. Minnesota Wild" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/6lihga1697617108.jpg/preview" group-title="NHL Hockey",8:10 PM - Ottawa Senators vs. Minnesota Wild - 08:10 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn5/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="3702664d5e60c1851d5b5f82c00a049b" tvg-name="Calgary Flames vs. Vegas Golden Knights" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/s1rwui1697621943.jpg/preview" group-title="NHL Hockey",8:10 PM - Calgary Flames vs. Vegas Golden Knights - 08:10 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="c87c6827cb31bfc6afa087ea550b97ac" tvg-name="Dallas Stars vs. Chicago Blackhawks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/jml4yl1697617443.jpg/preview" group-title="NHL Hockey",8:40 PM - Dallas Stars vs. Chicago Blackhawks - 08:40 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="ea0a2fba637a0cbd26dad6e5b7d5f3d2" tvg-name="Philadelphia Flyers vs. Los Angeles Kings" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/vj04se1731567424.jpg/preview" group-title="NHL Hockey",9:10 PM - Philadelphia Flyers vs. Los Angeles Kings - 09:10 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/nbc-sports-philadelphia/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="8cce9a342cab037eea89aacf8cf79e10" tvg-name="Indiana Pacers vs. Boston Celtics" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/0bey0t1728121716.jpg/preview" group-title="NBA Basketball",6:10 PM - Indiana Pacers vs. Boston Celtics - 06:10 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA14/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="511f7452c503f54eec7778b858aa734d" tvg-name="Atlanta Hawks vs. Toronto Raptors" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/0lh1nt1728122620.jpg/preview" group-title="NBA Basketball",6:10 PM - Atlanta Hawks vs. Toronto Raptors - 06:10 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA29/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="b59a34f26bc8e5a1de8c6ba4c285c4f9" tvg-name="Miami Heat vs. Houston Rockets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/jgiczh1728123239.jpg/preview" group-title="NBA Basketball",7:10 PM - Miami Heat vs. Houston Rockets - 07:10 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA22/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="1153f72c07305116f1e16f40ce53def1" tvg-name="San Antonio Spurs vs. Minnesota Timberwolves" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/yo9fa81714821457.jpg/preview" group-title="NBA Basketball",8:10 PM - San Antonio Spurs vs. Minnesota Timberwolves - 08:10 PM EST - (12/29/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA12/index.m3u8?token=[TOKEN]
 
