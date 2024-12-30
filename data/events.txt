@@ -1,8 +1,23 @@
 #EXTINF:-1 tvg-id="952471101d01ba49fc924a1e3876525e" tvg-name="Iowa Hawkeyes vs. Missouri Tigers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",2:30 PM - Iowa Hawkeyes vs. Missouri Tigers - 02:30 PM EST - (12/30/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
 
+#EXTINF:-1 tvg-id="8387bd62f7818bb1fbb58f864a5e642c" tvg-name="New York Rangers vs. Florida Panthers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/olx3u61697621975.jpg/preview" group-title="NHL Hockey",7:00 PM - New York Rangers vs. Florida Panthers - 07:00 PM EST - (12/30/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NHLNetwork/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="e64b430c24db3f8617ebaf7d474bf930" tvg-name="Nashville Predators vs. Winnipeg Jets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ucj2pj1697622038.jpg/preview" group-title="NHL Hockey",7:30 PM - Nashville Predators vs. Winnipeg Jets - 07:30 PM EST - (12/30/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/bally-sports-south-tennessee/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="0a0ea57e4ab5453ff946771919a324b2" tvg-name="Utah Hockey Club vs. Seattle Kraken" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/xpj5a71726255935.jpg/preview" group-title="NHL Hockey",8:00 PM - Utah Hockey Club vs. Seattle Kraken - 08:00 PM EST - (12/30/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NHL29/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="cf9ecc5eb97db51b36c370ecd68042e8" tvg-name="Chicago Bulls vs. Charlotte Hornets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/nf7k251714821703.jpg/preview" group-title="NBA Basketball",7:10 PM - Chicago Bulls vs. Charlotte Hornets - 07:10 PM EST - (12/30/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA05/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="3448bf90e7e8e8942216718c15d47ac9" tvg-name="New York Knicks vs. Washington Wizards" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/2q5wdp1728329369.jpg/preview" group-title="NBA Basketball",7:10 PM - New York Knicks vs. Washington Wizards - 07:10 PM EST - (12/30/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="cce454bdcc3124c3ab3824cea5cf31ea" tvg-name="Los Angeles Clippers vs. New Orleans Pelicans" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hi48j11728123392.jpg/preview" group-title="NBA Basketball",8:10 PM - Los Angeles Clippers vs. New Orleans Pelicans - 08:10 PM EST - (12/30/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA01/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="abd0cbc98938ce7611a985859628b87a" tvg-name="Denver Nuggets vs. Utah Jazz" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pj9bw1728123332.jpg/preview" group-title="NBA Basketball",9:10 PM - Denver Nuggets vs. Utah Jazz - 09:10 PM EST - (12/30/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA04/index.m3u8?token=[TOKEN]
@@ -12,4 +27,10 @@ https://[SUB_DOMAIN].thetvapp.to/hls/NBA18/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="159fea2b516a3804f5841cffc5c1ea9e" tvg-name="Dallas Mavericks vs. Sacramento Kings" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/feoxgt1728123013.jpg/preview" group-title="NBA Basketball",10:10 PM - Dallas Mavericks vs. Sacramento Kings - 10:10 PM EST - (12/30/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="e19067584f5ba98b8df90a56fe7dedd0" tvg-name="Philadelphia 76ers vs. Portland Trail Blazers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/f78g9r1728123005.jpg/preview" group-title="NBA Basketball",10:10 PM - Philadelphia 76ers vs. Portland Trail Blazers - 10:10 PM EST - (12/30/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA27/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="a87cb7e7345e271a89e8cf8af6f2a79c" tvg-name="Detroit Lions vs. San Francisco 49ers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ccxzop1624804101.jpg/preview" group-title="NFL Football",8:16 PM - Detroit Lions vs. San Francisco 49ers - 08:16 PM EST - (12/30/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn3/index.m3u8?token=[TOKEN]
 
