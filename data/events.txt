@@ -1,0 +1,15 @@
+#EXTINF:-1 tvg-id="952471101d01ba49fc924a1e3876525e" tvg-name="Iowa Hawkeyes vs. Missouri Tigers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",2:30 PM - Iowa Hawkeyes vs. Missouri Tigers - 02:30 PM EST - (12/30/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="3448bf90e7e8e8942216718c15d47ac9" tvg-name="New York Knicks vs. Washington Wizards" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/2q5wdp1728329369.jpg/preview" group-title="NBA Basketball",7:10 PM - New York Knicks vs. Washington Wizards - 07:10 PM EST - (12/30/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="abd0cbc98938ce7611a985859628b87a" tvg-name="Denver Nuggets vs. Utah Jazz" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7pj9bw1728123332.jpg/preview" group-title="NBA Basketball",9:10 PM - Denver Nuggets vs. Utah Jazz - 09:10 PM EST - (12/30/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA04/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="d6446e9292fda70f93d441d16edfef3b" tvg-name="Cleveland Cavaliers vs. Golden State Warriors" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hfpvg31728121818.jpg/preview" group-title="NBA Basketball",10:10 PM - Cleveland Cavaliers vs. Golden State Warriors - 10:10 PM EST - (12/30/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA18/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="159fea2b516a3804f5841cffc5c1ea9e" tvg-name="Dallas Mavericks vs. Sacramento Kings" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/feoxgt1728123013.jpg/preview" group-title="NBA Basketball",10:10 PM - Dallas Mavericks vs. Sacramento Kings - 10:10 PM EST - (12/30/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
+
