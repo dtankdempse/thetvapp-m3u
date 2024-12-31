@@ -1,3 +1,15 @@
+#EXTINF:-1 tvg-id="f1e13b59f5032aa7011c7565976a63d5" tvg-name="Alabama Crimson Tide vs. Michigan Wolverines" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",12:00 PM - Alabama Crimson Tide vs. Michigan Wolverines - 12:00 PM EST - (12/31/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="d5b3f7972eafb2582cf459ae135267dd" tvg-name="Louisville Cardinals vs. Washington Huskies" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",2:00 PM - Louisville Cardinals vs. Washington Huskies - 02:00 PM EST - (12/31/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WCBSDT1/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="0eb26f63c4fb249e7639f5a6e480eadf" tvg-name="South Carolina Gamecocks vs. Illinois Fighting Illini" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:00 PM - South Carolina Gamecocks vs. Illinois Fighting Illini - 03:00 PM EST - (12/31/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/WABCDT1/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="eedd473e3222c8c7e68337e959165afb" tvg-name="Baylor Bears vs. LSU Tigers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",3:30 PM - Baylor Bears vs. LSU Tigers - 03:30 PM EST - (12/31/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="31ae5d41a04f8f9a80595f0379bedc34" tvg-name="Penn State Nittany Lions vs. Boise State Broncos" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:30 PM - Penn State Nittany Lions vs. Boise State Broncos - 07:30 PM EST - (12/31/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/ESPNU/index.m3u8?token=[TOKEN]
 
@@ -40,8 +52,17 @@ https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-west/index.m3u8?token=[TOKEN]
 #EXTINF:-1 tvg-id="a54e98ab5c4deda111fe38edcd40607f" tvg-name="Utah Hockey Club vs. Edmonton Oilers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/11m96a1726255900.jpg/preview" group-title="NHL Hockey",9:00 PM - Utah Hockey Club vs. Edmonton Oilers - 09:00 PM EST - (12/31/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
 
+#EXTINF:-1 tvg-id="59746fe9a5776850ff99d0a131d62cf8" tvg-name="Milwaukee Bucks vs. Indiana Pacers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/4jj3151728123163.jpg/preview" group-title="NBA Basketball",3:10 PM - Milwaukee Bucks vs. Indiana Pacers - 03:10 PM EST - (12/31/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA19/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="a44df7d920023ce96aabd62e8a59dfe2" tvg-name="Toronto Raptors vs. Boston Celtics" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uemo931728329422.jpg/preview" group-title="NBA Basketball",3:10 PM - Toronto Raptors vs. Boston Celtics - 03:10 PM EST - (12/31/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA14/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="6a1b1d437b9a821853876a9c26051caa" tvg-name="Los Angeles Clippers vs. San Antonio Spurs" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/cho9s21728123462.jpg/preview" group-title="NBA Basketball",7:10 PM - Los Angeles Clippers vs. San Antonio Spurs - 07:10 PM EST - (12/31/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA10/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="42ed2a031b3b8ac584934b42dbee4f77" tvg-name="Minnesota Timberwolves vs. Oklahoma City Thunder" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/s11nb71728122917.jpg/preview" group-title="NBA Basketball",8:10 PM - Minnesota Timberwolves vs. Oklahoma City Thunder - 08:10 PM EST - (12/31/2024)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="feb130306277a9fa71478ad7d83f9a29" tvg-name="Memphis Grizzlies vs. Phoenix Suns" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/g99ue31728123103.jpg/preview" group-title="NBA Basketball",9:10 PM - Memphis Grizzlies vs. Phoenix Suns - 09:10 PM EST - (12/31/2024)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA13/index.m3u8?token=[TOKEN]
