@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="ded4ca652d9e7ad3b7859547aadfd2d8" tvg-name="New Jersey Devils vs. Los Angeles Kings" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/189zc81731567423.jpg/preview" group-title="NHL Hockey",6:00 PM - New Jersey Devils vs. Los Angeles Kings - 06:00 PM EST - (01/01/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NHLNetwork/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="292d71a0e0e8f246b84faefb746a4124" tvg-name="Orlando Magic vs. Detroit Pistons" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/43xctz1728122616.jpg/preview" group-title="NBA Basketball",7:10 PM - Orlando Magic vs. Detroit Pistons - 07:10 PM EST - (01/01/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA07/index.m3u8?token=[TOKEN]
+
