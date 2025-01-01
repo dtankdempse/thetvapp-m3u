@@ -16,12 +16,21 @@ https://[SUB_DOMAIN].thetvapp.to/hls/NBA26/index.m3u8?token=[TOKEN]
 #EXTINF:-1 tvg-id="292d71a0e0e8f246b84faefb746a4124" tvg-name="Orlando Magic vs. Detroit Pistons" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/43xctz1728122616.jpg/preview" group-title="NBA Basketball",7:10 PM - Orlando Magic vs. Detroit Pistons - 07:10 PM EST - (01/01/2025)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA07/index.m3u8?token=[TOKEN]
 
+#EXTINF:-1 tvg-id="10843d5ae5b67432b132de81948dc8fa" tvg-name="Brooklyn Nets vs. Toronto Raptors" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/beb1tz1728329452.jpg/preview" group-title="NBA Basketball",7:40 PM - Brooklyn Nets vs. Toronto Raptors - 07:40 PM EST - (01/01/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA29/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="17f89c1a8b236d5a10bb90a1c45cbd49" tvg-name="New Orleans Pelicans vs. Miami Heat" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/os8wr11728123496.jpg/preview" group-title="NBA Basketball",7:40 PM - New Orleans Pelicans vs. Miami Heat - 07:40 PM EST - (01/01/2025)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA16/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="8846bec0b1e1c74855bbeab37395413c" tvg-name="Utah Jazz vs. New York Knicks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/apohuj1728121995.jpg/preview" group-title="NBA Basketball",7:40 PM - Utah Jazz vs. New York Knicks - 07:40 PM EST - (01/01/2025)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA09/index.m3u8?token=[TOKEN]
 
+#EXTINF:-1 tvg-id="25d0cafb98650e6b670cdaee8693555c" tvg-name="Dallas Mavericks vs. Houston Rockets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/2zmow31728122790.jpg/preview" group-title="NBA Basketball",8:10 PM - Dallas Mavericks vs. Houston Rockets - 08:10 PM EST - (01/01/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA22/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="6d474d20d5b298c0931e9f6cdaa66c19" tvg-name="Atlanta Hawks vs. Denver Nuggets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/mu736r1728122167.jpg/preview" group-title="NBA Basketball",9:10 PM - Atlanta Hawks vs. Denver Nuggets - 09:10 PM EST - (01/01/2025)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA23/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="4bc2389413a4ed32f4483530543a1e75" tvg-name="Philadelphia 76ers vs. Sacramento Kings" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/j6y8s31728122663.jpg/preview" group-title="NBA Basketball",10:10 PM - Philadelphia 76ers vs. Sacramento Kings - 10:10 PM EST - (01/01/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA17/index.m3u8?token=[TOKEN]
 
