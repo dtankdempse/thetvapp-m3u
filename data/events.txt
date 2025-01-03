@@ -1,0 +1,21 @@
+#EXTINF:-1 tvg-id="e1036ae7a3f0cdd6f5b257f3fcc2df7a" tvg-name="North Texas Mean Green vs. Texas State Bobcats" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",4:00 PM - North Texas Mean Green vs. Texas State Bobcats - 04:00 PM EST - (01/03/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="7426a8626cc76ba17f5da95e53af93db" tvg-name="Orlando Magic vs. Toronto Raptors" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/jbi9wt1728123019.jpg/preview" group-title="NBA Basketball",7:40 PM - Orlando Magic vs. Toronto Raptors - 07:40 PM EST - (01/03/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA29/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="7ffd61fb632ec25b7762c51dd8e41972" tvg-name="Pittsburgh Penguins vs. Florida Panthers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/0b5jg81697621836.jpg/preview" group-title="NHL Hockey",7:00 PM - Pittsburgh Penguins vs. Florida Panthers - 07:00 PM EST - (01/03/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NHLNetwork/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="9b7981adfc0c13ca6021c2e31e55023b" tvg-name="Montréal Canadiens vs. Chicago Blackhawks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/b9y2ck1697617020.jpg/preview" group-title="NHL Hockey",8:00 PM - Montréal Canadiens vs. Chicago Blackhawks - 08:00 PM EST - (01/03/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn2/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="da98dcb0419699bd47328daeba53c30d" tvg-name="Ottawa Senators vs. St Louis Blues" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/b9y2ck1697617020.jpg/preview" group-title="NHL Hockey",8:00 PM - Ottawa Senators vs. St Louis Blues - 08:00 PM EST - (01/03/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn5/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="3f919d3bf9159106556adb6ece7e3ff2" tvg-name="Anaheim Ducks vs. Edmonton Oilers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ilea061731570959.jpg/preview" group-title="NHL Hockey",9:00 PM - Anaheim Ducks vs. Edmonton Oilers - 09:00 PM EST - (01/03/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NHL16/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="87c4006d9351a9f230773f978a44fbd9" tvg-name="Nashville Predators vs. Vancouver Canucks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1heyye1697617411.jpg/preview" group-title="NHL Hockey",10:00 PM - Nashville Predators vs. Vancouver Canucks - 10:00 PM EST - (01/03/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
+
