@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-id="3ecf79637715d96a4245b029afeb3606" tvg-name="Buffalo Bulls vs. Liberty Flames" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",11:00 AM - Buffalo Bulls vs. Liberty Flames - 11:00 AM EST - (01/04/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN2/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="a40261fbf24da01c19c0dd9ef8ee7838" tvg-name="New York Rangers vs. Washington Capitals" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/os4bhf1697618676.jpg/preview" group-title="NHL Hockey",12:00 PM - New York Rangers vs. Washington Capitals - 12:00 PM EST - (01/04/2025)
 https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
 
