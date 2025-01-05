@@ -61,9 +61,15 @@ https://[SUB_DOMAIN].thetvapp.to/hls/nbc-sports-boston/index.m3u8?token=[TOKEN]
 #EXTINF:-1 tvg-id="503949d030d2e7c7c23f473c25586d53" tvg-name="Charlotte Hornets vs. Cleveland Cavaliers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/3vj7y71728123057.jpg/preview" group-title="NBA Basketball",6:00 PM - Charlotte Hornets vs. Cleveland Cavaliers - 06:00 PM EST - (01/05/2025)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA06/index.m3u8?token=[TOKEN]
 
+#EXTINF:-1 tvg-id="143aa8fdab4f0ffda3f0637a0d2ff204" tvg-name="New Orleans Pelicans vs. Washington Wizards" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7fpw2t1728122352.jpg/preview" group-title="NBA Basketball",6:10 PM - New Orleans Pelicans vs. Washington Wizards - 06:10 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA26/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="ee0366676b47aedf157d3e2eed937bf2" tvg-name="Utah Jazz vs. Orlando Magic" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/br9uzv1728122697.jpg/preview" group-title="NBA Basketball",6:30 PM - Utah Jazz vs. Orlando Magic - 06:30 PM EST - (01/05/2025)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA25/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="b23648b7478e9155079454a416456f51" tvg-name="Los Angeles Lakers vs. Houston Rockets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/w5qrds1728123511.jpg/preview" group-title="NBA Basketball",7:10 PM - Los Angeles Lakers vs. Houston Rockets - 07:10 PM EST - (01/05/2025)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA22/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="6dde3230e317dfe6c81668722f7a1704" tvg-name="Sacramento Kings vs. Golden State Warriors" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7kjwy81728329373.jpg/preview" group-title="NBA Basketball",8:30 PM - Sacramento Kings vs. Golden State Warriors - 08:30 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA18/index.m3u8?token=[TOKEN]
 
