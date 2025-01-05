@@ -46,3 +46,24 @@ https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
 #EXTINF:-1 tvg-id="95da8c36712b49d116858d838b847ddf" tvg-name="Pittsburgh Penguins vs. Carolina Hurricanes" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/9o20k21697621985.jpg/preview" group-title="NHL Hockey",6:00 PM - Pittsburgh Penguins vs. Carolina Hurricanes - 06:00 PM EST - (01/05/2025)
 https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-pittsburgh/index.m3u8?token=[TOKEN]
 
+#EXTINF:-1 tvg-id="3526ee6aa43f2c6343bde54ce40c59fd" tvg-name="New York Islanders vs. Boston Bruins" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/oc3jd11697621898.jpg/preview" group-title="NHL Hockey",6:00 PM - New York Islanders vs. Boston Bruins - 06:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="e3f435b29f4aa92f295a3976978ac2c2" tvg-name="Philadelphia Flyers vs. Toronto Maple Leafs" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/zromji1697621956.jpg/preview" group-title="NHL Hockey",7:00 PM - Philadelphia Flyers vs. Toronto Maple Leafs - 07:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/nbc-sports-philadelphia/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="7eaad3f137a70b75c9c1d35540544f3c" tvg-name="Tampa Bay Lightning vs. Anaheim Ducks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/g8w3ta1731570940.jpg/preview" group-title="NHL Hockey",8:00 PM - Tampa Bay Lightning vs. Anaheim Ducks - 08:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NHL24/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="27ba016fbbc32e91d039657927776173" tvg-name="Boston Celtics vs. Oklahoma City Thunder" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/33pjre1728123124.jpg/preview" group-title="NBA Basketball",3:40 PM - Boston Celtics vs. Oklahoma City Thunder - 03:40 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/nbc-sports-boston/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="503949d030d2e7c7c23f473c25586d53" tvg-name="Charlotte Hornets vs. Cleveland Cavaliers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/3vj7y71728123057.jpg/preview" group-title="NBA Basketball",6:00 PM - Charlotte Hornets vs. Cleveland Cavaliers - 06:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA06/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="ee0366676b47aedf157d3e2eed937bf2" tvg-name="Utah Jazz vs. Orlando Magic" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/br9uzv1728122697.jpg/preview" group-title="NBA Basketball",6:30 PM - Utah Jazz vs. Orlando Magic - 06:30 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA25/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="b23648b7478e9155079454a416456f51" tvg-name="Los Angeles Lakers vs. Houston Rockets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/w5qrds1728123511.jpg/preview" group-title="NBA Basketball",7:10 PM - Los Angeles Lakers vs. Houston Rockets - 07:10 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA22/index.m3u8?token=[TOKEN]
+
