@@ -1,0 +1,48 @@
+#EXTINF:-1 tvg-id="27c848736a4f5a6ae9443bfc066408d0" tvg-name="New York Giants vs. Philadelphia Eagles" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/p78zm01717529779.jpg/preview" group-title="NFL Football",1:00 PM - New York Giants vs. Philadelphia Eagles - 01:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/WCBSDT1/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="d61c550b6074b8330b9395ee537eecfb" tvg-name="New Orleans Saints vs. Tampa Bay Buccaneers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/basxtt1717529760.jpg/preview" group-title="NFL Football",1:00 PM - New Orleans Saints vs. Tampa Bay Buccaneers - 01:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/WTVT/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="adbb7df49649610e8430905b6346e034" tvg-name="Jacksonville Jaguars vs. Indianapolis Colts" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/8373571717529745.jpg/preview" group-title="NFL Football",1:00 PM - Jacksonville Jaguars vs. Indianapolis Colts - 01:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/WXIN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="faa017a4b075b644ad3c6fb8808fdbd9" tvg-name="Carolina Panthers vs. Atlanta Falcons" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/x8894z1717529767.jpg/preview" group-title="NFL Football",1:00 PM - Carolina Panthers vs. Atlanta Falcons - 01:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn3/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="9124569a72508c38ff51ed0443de16e4" tvg-name="Buffalo Bills vs. New England Patriots" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/hstx2k1719402847.png/preview" group-title="NFL Football",1:00 PM - Buffalo Bills vs. New England Patriots - 01:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/WBZ/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="00f4dd51c44efec1ef7e52bd3633d41d" tvg-name="Chicago Bears vs. Green Bay Packers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/t1wj3z1717529839.jpg/preview" group-title="NFL Football",1:00 PM - Chicago Bears vs. Green Bay Packers - 01:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/WLUK/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="46ac53ad91b57d41c45d18292e7a5a80" tvg-name="Washington Commanders vs. Dallas Cowboys" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/857uwt1717529859.jpg/preview" group-title="NFL Football",1:00 PM - Washington Commanders vs. Dallas Cowboys - 01:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/KDFW/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="6c7af901a25c8c7471f5f9c933728eab" tvg-name="Houston Texans vs. Tennessee Titans" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ayogsp1717529861.jpg/preview" group-title="NFL Football",1:00 PM - Houston Texans vs. Tennessee Titans - 01:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/WTVF/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="99dc7c4d920bec7f030c77637ac92aa5" tvg-name="Miami Dolphins vs. New York Jets" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/hstx2k1719402847.png/preview" group-title="NFL Football",4:25 PM - Miami Dolphins vs. New York Jets - 04:25 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/WNYWDT1/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="a8259fb69b79ad1642b17d1cca3992d2" tvg-name="Seattle Seahawks vs. Los Angeles Rams" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/a9fgvj1717529818.jpg/preview" group-title="NFL Football",4:25 PM - Seattle Seahawks vs. Los Angeles Rams - 04:25 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/KTTV/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="c1c428e5e2175bd88e8032f139ed500b" tvg-name="Los Angeles Chargers vs. Las Vegas Raiders" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/hstx2k1719402847.png/preview" group-title="NFL Football",4:25 PM - Los Angeles Chargers vs. Las Vegas Raiders - 04:25 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/KLAS/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="63ac794c9b4d8ff45e981e8757c29cf4" tvg-name="Kansas City Chiefs vs. Denver Broncos" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/hstx2k1719402847.png/preview" group-title="NFL Football",4:25 PM - Kansas City Chiefs vs. Denver Broncos - 04:25 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/KCNC/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="438526c4c03e3f0a2ea0c0ca55cfaed8" tvg-name="San Francisco 49ers vs. Arizona Cardinals" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/epuvks1717529748.jpg/preview" group-title="NFL Football",4:25 PM - San Francisco 49ers vs. Arizona Cardinals - 04:25 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/KSAZ/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="8356c2289c9533d6a45b17d5525153c1" tvg-name="Minnesota Vikings vs. Detroit Lions" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/e1o9pn1717529778.jpg/preview" group-title="NFL Football",8:23 PM - Minnesota Vikings vs. Detroit Lions - 08:23 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn3/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="a20f90464e1c068edf388b7ff26ea733" tvg-name="New York Rangers vs. Chicago Blackhawks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/dtehub1697617516.jpg/preview" group-title="NHL Hockey",3:00 PM - New York Rangers vs. Chicago Blackhawks - 03:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="95da8c36712b49d116858d838b847ddf" tvg-name="Pittsburgh Penguins vs. Carolina Hurricanes" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/9o20k21697621985.jpg/preview" group-title="NHL Hockey",6:00 PM - Pittsburgh Penguins vs. Carolina Hurricanes - 06:00 PM EST - (01/05/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-pittsburgh/index.m3u8?token=[TOKEN]
+
