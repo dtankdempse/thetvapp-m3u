@@ -40,3 +40,6 @@ https://[SUB_DOMAIN].thetvapp.to/hls/NBA12/index.m3u8?token=[TOKEN]
 #EXTINF:-1 tvg-id="05c50ab132910ed05dbf8f9040f89d30" tvg-name="Miami Heat vs. Sacramento Kings" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/kg6bqm1728121774.jpg/preview" group-title="NBA Basketball",10:10 PM - Miami Heat vs. Sacramento Kings - 10:10 PM EST - (01/06/2025)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
 
+#EXTINF:-1 tvg-id="8a4b30206972d4d43f0470e92a19543f" tvg-name="WWE Monday Night Raw" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="PPV Events",8:00 PM - WWE Monday Night Raw - 08:00 PM EST - (01/06/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/PPV01/index.m3u8?token=[TOKEN]
+
