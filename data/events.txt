@@ -1,0 +1,21 @@
+#EXTINF:-1 tvg-id="737d3bf568b221da049ab2a55071168e" tvg-name="Vancouver Canucks vs. Montréal Canadiens" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/66fxek1697621967.jpg/preview" group-title="NHL Hockey",7:30 PM - Vancouver Canucks vs. Montréal Canadiens - 07:30 PM EST - (01/06/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NHL03/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="cadbff731962d04023a218d27a0e1c92" tvg-name="New Jersey Devils vs. Seattle Kraken" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/dir6bm1697621829.jpg/preview" group-title="NHL Hockey",10:00 PM - New Jersey Devils vs. Seattle Kraken - 10:00 PM EST - (01/06/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NHL29/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="f07ad0379959eb70615d944fc9b31e0b" tvg-name="College Football | North Dakota State vs. Montana State" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaaf-transparent%5B1%5D.png?raw=true" group-title="NCAA Football",7:00 PM - College Football | North Dakota State vs. Montana State - 07:00 PM EST - (01/06/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="57ae435b1f9861e8832dff0084a13133" tvg-name="Phoenix Suns vs. Philadelphia 76ers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wjolpv1728121786.jpg/preview" group-title="NBA Basketball",7:10 PM - Phoenix Suns vs. Philadelphia 76ers - 07:10 PM EST - (01/06/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBATV/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="dec919ca5a0ea0e0e281534e2172e7ed" tvg-name="Milwaukee Bucks vs. Toronto Raptors" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/x6flht1728122520.jpg/preview" group-title="NBA Basketball",7:40 PM - Milwaukee Bucks vs. Toronto Raptors - 07:40 PM EST - (01/06/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA29/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="fc3717ea175c08b7bd6bafaad9fb8acb" tvg-name="Orlando Magic vs. New York Knicks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1tuyai1714821545.jpg/preview" group-title="NBA Basketball",7:40 PM - Orlando Magic vs. New York Knicks - 07:40 PM EST - (01/06/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA09/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="67af11db573fd58410a7d82b9825a823" tvg-name="Dallas Mavericks vs. Memphis Grizzlies" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/56k2i71728329354.jpg/preview" group-title="NBA Basketball",8:10 PM - Dallas Mavericks vs. Memphis Grizzlies - 08:10 PM EST - (01/06/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA11/index.m3u8?token=[TOKEN]
+
