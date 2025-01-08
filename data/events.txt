@@ -1,3 +1,12 @@
+#EXTINF:-1 tvg-id="8b6acc55dc91423a57ca3ec401e49d07" tvg-name="Washington Wizards vs. Philadelphia 76ers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/zs1qw31728123466.jpg/preview" group-title="NBA Basketball",7:00 PM - Washington Wizards vs. Philadelphia 76ers - 07:00 PM EST - (01/08/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA02/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="3843ec8c1f90a3df85628c752f062dc5" tvg-name="Chicago Bulls vs. Indiana Pacers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/rdwtdz1728123106.jpg/preview" group-title="NBA Basketball",7:10 PM - Chicago Bulls vs. Indiana Pacers - 07:10 PM EST - (01/08/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA19/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="cc148550efcc65e5ea4e19b790bc08fd" tvg-name="Oklahoma City Thunder vs. Cleveland Cavaliers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/d4fytu1728122511.jpg/preview" group-title="NBA Basketball",7:10 PM - Oklahoma City Thunder vs. Cleveland Cavaliers - 07:10 PM EST - (01/08/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
 #EXTINF:-1 tvg-id="449bcc96bfa97ea0b2ae0786b6308c59" tvg-name="Toronto Raptors vs. New York Knicks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/nnskr41728122739.jpg/preview" group-title="NBA Basketball",7:30 PM - Toronto Raptors vs. New York Knicks - 07:30 PM EST - (01/08/2025)
 https://[SUB_DOMAIN].thetvapp.to/hls/NBA09/index.m3u8?token=[TOKEN]
 
@@ -12,4 +21,16 @@ https://[SUB_DOMAIN].thetvapp.to/hls/NBA23/index.m3u8?token=[TOKEN]
 
 #EXTINF:-1 tvg-id="26a92215771c9d56c71fca9e7ca9d816" tvg-name="San Antonio Spurs vs. Milwaukee Bucks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/f3bhr81728122692.jpg/preview" group-title="NBA Basketball",9:40 PM - San Antonio Spurs vs. Milwaukee Bucks - 09:40 PM EST - (01/08/2025)
 https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="0abee53266a9f42d2da44115d0606eb2" tvg-name="Colorado Avalanche vs. Chicago Blackhawks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/50dzo91697621908.jpg/preview" group-title="NHL Hockey",7:30 PM - Colorado Avalanche vs. Chicago Blackhawks - 07:30 PM EST - (01/08/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/TNTEast/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="5c7bf94b10be660993be5f24d84b76f6" tvg-name="Vancouver Canucks vs. Washington Capitals" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/w2bsr01697621952.jpg/preview" group-title="NHL Hockey",7:30 PM - Vancouver Canucks vs. Washington Capitals - 07:30 PM EST - (01/08/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="3c9759b505f2847aec3e8146549c3368" tvg-name="Florida Panthers vs. Utah Hockey Club" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ecwv9b1726255931.jpg/preview" group-title="NHL Hockey",10:00 PM - Florida Panthers vs. Utah Hockey Club - 10:00 PM EST - (01/08/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/TNTEast/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="f55bfb7cd9f2117e1ae01ee3f48e219e" tvg-name="Calgary Flames vs. Los Angeles Kings" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/iz52wx1731567429.jpg/preview" group-title="NHL Hockey",10:30 PM - Calgary Flames vs. Los Angeles Kings - 10:30 PM EST - (01/08/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-west/index.m3u8?token=[TOKEN]
 
