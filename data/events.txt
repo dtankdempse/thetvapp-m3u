@@ -1,0 +1,15 @@
+#EXTINF:-1 tvg-id="449bcc96bfa97ea0b2ae0786b6308c59" tvg-name="Toronto Raptors vs. New York Knicks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/nnskr41728122739.jpg/preview" group-title="NBA Basketball",7:30 PM - Toronto Raptors vs. New York Knicks - 07:30 PM EST - (01/08/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA09/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="3f3af20b969c8646f00acc1ebe5072ff" tvg-name="Detroit Pistons vs. Brooklyn Nets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/anl7fo1728122984.jpg/preview" group-title="NBA Basketball",7:40 PM - Detroit Pistons vs. Brooklyn Nets - 07:40 PM EST - (01/08/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA20/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="e33b4b85712f4191c695958dd6a3a539" tvg-name="Portland Trail Blazers vs. New Orleans Pelicans" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/2pmwd11728121683.jpg/preview" group-title="NBA Basketball",8:00 PM - Portland Trail Blazers vs. New Orleans Pelicans - 08:00 PM EST - (01/08/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA01/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="4715c8a82d5cbce8394b9937f650a4be" tvg-name="Los Angeles Clippers vs. Denver Nuggets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/svfgtr1728122095.jpg/preview" group-title="NBA Basketball",9:00 PM - Los Angeles Clippers vs. Denver Nuggets - 09:00 PM EST - (01/08/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA23/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="26a92215771c9d56c71fca9e7ca9d816" tvg-name="San Antonio Spurs vs. Milwaukee Bucks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/f3bhr81728122692.jpg/preview" group-title="NBA Basketball",9:40 PM - San Antonio Spurs vs. Milwaukee Bucks - 09:40 PM EST - (01/08/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/ESPN/index.m3u8?token=[TOKEN]
+
