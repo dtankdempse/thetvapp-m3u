@@ -1,0 +1,27 @@
+#EXTINF:-1 tvg-id="40ef96e10b3a55865a842b2cc1f68acf" tvg-name="Portland Trail Blazers vs. Dallas Mavericks" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/abwipo1728122297.jpg/preview" group-title="NBA Basketball",8:40 PM - Portland Trail Blazers vs. Dallas Mavericks - 08:40 PM EST - (01/09/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/NBA03/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="1133e833e1c96ddebdfa82af9629c636" tvg-name="New Jersey Devils vs. New York Rangers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/y5d48z1697621865.jpg/preview" group-title="NHL Hockey",7:00 PM - New Jersey Devils vs. New York Rangers - 07:00 PM EST - (01/09/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/MSGSN/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="b7e04175b2b79fd935ee860928863a1d" tvg-name="Dallas Stars vs. Philadelphia Flyers" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/dcrmhu1697617039.jpg/preview" group-title="NHL Hockey",7:00 PM - Dallas Stars vs. Philadelphia Flyers - 07:00 PM EST - (01/09/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/nbc-sports-philadelphia/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="4507810c927e63be65fb8b69f7e6562f" tvg-name="Seattle Kraken vs. Columbus Blue Jackets" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ii2uot1697621809.jpg/preview" group-title="NHL Hockey",7:00 PM - Seattle Kraken vs. Columbus Blue Jackets - 07:00 PM EST - (01/09/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/bally-sports-ohio-columbus/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="ba37d30cf1774cc2c20c8babcc37fbed" tvg-name="Buffalo Sabres vs. Ottawa Senators" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/08ryri1697621989.jpg/preview" group-title="NHL Hockey",7:00 PM - Buffalo Sabres vs. Ottawa Senators - 07:00 PM EST - (01/09/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn5/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="b7be7c8562150bcaee54153db3f856cb" tvg-name="Toronto Maple Leafs vs. Carolina Hurricanes" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/g5vxe61697621950.jpg/preview" group-title="NHL Hockey",7:30 PM - Toronto Maple Leafs vs. Carolina Hurricanes - 07:30 PM EST - (01/09/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/tsn4/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="c1433eb4fed98871a9eaef23ab8de414" tvg-name="Anaheim Ducks vs. St Louis Blues" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/g5vxe61697621950.jpg/preview" group-title="NHL Hockey",8:00 PM - Anaheim Ducks vs. St Louis Blues - 08:00 PM EST - (01/09/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/fanduel-sports-network-kansas-city/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="6b27e30ff964dce2580e0002373c4dbe" tvg-name="Colorado Avalanche vs. Minnesota Wild" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/fwpzwe1697622038.jpg/preview" group-title="NHL Hockey",8:00 PM - Colorado Avalanche vs. Minnesota Wild - 08:00 PM EST - (01/09/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/altitude-sports/index.m3u8?token=[TOKEN]
+
+#EXTINF:-1 tvg-id="5d6938c150ac675e0c32d414bb59f59e" tvg-name="New York Islanders vs. Vegas Golden Knights" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/19crm61697621786.jpg/preview" group-title="NHL Hockey",10:00 PM - New York Islanders vs. Vegas Golden Knights - 10:00 PM EST - (01/09/2025)
+https://[SUB_DOMAIN].thetvapp.to/hls/sportsnet-east/index.m3u8?token=[TOKEN]
+
